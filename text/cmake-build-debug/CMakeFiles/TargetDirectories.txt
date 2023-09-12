@@ -1,0 +1,3 @@
+C:/Users/csn/Desktop/text/cmake-build-debug/CMakeFiles/MyProject.dir
+C:/Users/csn/Desktop/text/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/csn/Desktop/text/cmake-build-debug/CMakeFiles/rebuild_cache.dir
